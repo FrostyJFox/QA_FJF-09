@@ -1,0 +1,2 @@
+const t=document.querySelector("[data-start]"),e=document.querySelector("[data-stop]"),o=document.getElementById("color-number"),r=document.body;let d,n="";t.addEventListener("click",(()=>{t.disabled=!0,d=setInterval((()=>{n=`#${Math.floor(16777215*Math.random()).toString(16).padStart(6,"0")}`,r.style.backgroundColor=n,o.textContent=`Current Color: ${n}`}),1e3)})),e.addEventListener("click",(()=>{t.disabled=!1,clearInterval(d)}));
+//# sourceMappingURL=01-color-switcher.3a67319a.js.map
