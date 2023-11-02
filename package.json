@@ -1,21 +1,21 @@
 {
-  "name": "QA_FJF-08",
+  "name": "QA_FJF-09",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://FrostyJFox.github.io/QA_FJF-08",
+  "homepage": "https://FrostyJFox.github.io/QA_FJF-09",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /QA_FJF-08/"
+    "build": "parcel build src/*.html --public-url /QA_FJF-09/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrostyJFox/QA_FJF-08.git"
+    "url": "git+https://github.com/FrostyJFox/QA_FJF-09.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FrostyJFox/QA_FJF-08.git"
+    "url": "https://github.com/FrostyJFox/QA_FJF-09.git"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
